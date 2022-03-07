@@ -1,4 +1,4 @@
-import {ReactComponent as GithubIcon} from "../../Assets/img/github_logo.svg";
+import {ReactComponent as GithubIcon} from "../../assets/img/github_logo.svg";
 import "./styles.css";
 
 function NavBar () {
